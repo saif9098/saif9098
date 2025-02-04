@@ -1,3 +1,4 @@
+![logo](https://github.com/saif9098/saif9098/blob/main/Dark%20and%20Dynamic%20Etched%20Textured%20Background%20Coming%20Soon%20Banner_20250204_125814_0000.png)
 <h1 align="center">Hi 👋, I'm Saif Raja</h1>
 <h3 align="center">Full Stack Developer</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
